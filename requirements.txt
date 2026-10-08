@@ -1,0 +1,29 @@
+# Core RAG / LLM
+mistralai
+langchain
+langchain-mistralai
+langchain-chroma
+langchain-community
+langchain-text-splitters
+
+# Vector database
+chromadb
+
+# Document loading / parsing
+pypdf
+python-docx
+
+# Embeddings / ML utilities
+sentence-transformers
+
+# Environment variables
+python-dotenv
+
+# API / web app (remove if your project does not use FastAPI)
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Useful HTTP / data dependencies
+requests
+numpy
